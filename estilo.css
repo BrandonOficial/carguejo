@@ -10,7 +10,10 @@
 }
 body{
     background: #dee1e2;
-    min-height: 100vh;  
+    min-height: 90vh; 
+    justify-content: center;
+    align-items: center;
+    display: flex; 
 }
 header{
     position: absolute;
